@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PIP</string>
+    <string name="play">play</string>
+    <string name="pause">pause</string>
+    <string name="title">sandbeach</string>
+    <string name="enter_picture_in_picture">enter picture in picture mode</string>
+</resources>
